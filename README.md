@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Freeflix - Movie Streaming App
 
 ## Brief
 
