@@ -19,7 +19,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const actualDate = ref(new Date().getFullYear());
+const actualDate = ref<number>(new Date().getFullYear());
 </script>
 
 <style scoped></style>
