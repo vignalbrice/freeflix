@@ -1,0 +1,32 @@
+{
+  "name": "free-flix",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.0.18",
+    "@tresjs/cientos": "^3.5.0",
+    "axios": "^1.5.1",
+    "pinia": "^2.1.7",
+    "three": "^0.157.0",
+    "tweakpane": "^4.0.1",
+    "vue": "^3.3.4",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@tresjs/core": "^3.3.0",
+    "@types/three": "latest",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}
